@@ -1,0 +1,23 @@
+h1{
+    font-style: inherit;
+    color: white;
+    background-color: black;
+}
+
+span{
+    color: skyblue;
+}
+
+h2{
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
+
+h3{
+    text-align: right;
+    text-decoration: underline;
+    color: navy;
+    background-color: skyblue;
+}
